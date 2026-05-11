@@ -1,0 +1,21 @@
+# ninja log v6
+6	81	7997427487696160	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	65f20d1e97924380
+6	81	7997427487696160	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	65f20d1e97924380
+82	17948	7997427666347015	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	da4e68d47fd1c28b
+82	17948	7997427666347015	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	da4e68d47fd1c28b
+17954	18207	7997427666493194	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	7fa418177264e025
+17954	18207	7997427666493194	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	7fa418177264e025
+18208	18283	7997427669724966	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	709eedc0228f46fb
+18208	18283	7997427669724966	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	709eedc0228f46fb
+18283	18349	7997427670282772	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	f1c38355a9e5a3ef
+18283	18349	7997427670282772	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	f1c38355a9e5a3ef
+18349	18532	7997427672193148	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	69e756caff87a201
+18349	18532	7997427672193148	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	69e756caff87a201
+18532	18613	7997427672962435	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	5a319318ecb5698a
+18532	18613	7997427672962435	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	5a319318ecb5698a
+18613	18715	7997427673909544	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	cd19946e6706e0d7
+18613	18715	7997427673909544	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	cd19946e6706e0d7
+18715	18897	7997427675808795	CMakeFiles/imgui-populate-complete	cdfab3e855c39abf
+18715	18897	7997427675808795	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	cdfab3e855c39abf
+18715	18897	7997427675808795	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	cdfab3e855c39abf
+18715	18897	7997427675808795	C:/Users/lahir/Downloads/embedded/FRIEND-SUGGESTION-main/FRIEND-SUGGESTION-main/out/build/x64-Debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	cdfab3e855c39abf
