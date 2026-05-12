@@ -1,0 +1,10 @@
+D:/watch/FRIEND-SUGGESTION/build/CMakeFiles/FriendSuggestionUI.dir
+D:/watch/FRIEND-SUGGESTION/build/CMakeFiles/INSTALL.dir
+D:/watch/FRIEND-SUGGESTION/build/CMakeFiles/ALL_BUILD.dir
+D:/watch/FRIEND-SUGGESTION/build/CMakeFiles/ZERO_CHECK.dir
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-build/CMakeFiles/uninstall.dir
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-build/CMakeFiles/INSTALL.dir
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-build/src/CMakeFiles/INSTALL.dir

@@ -1,0 +1,10 @@
+^D:\WATCH\FRIEND-SUGGESTION\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EC300B4A91C17CD7CC0CA4EAFE239CD1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/watch/FRIEND-SUGGESTION/build/_deps/imgui-subbuild -BD:/watch/FRIEND-SUGGESTION/build/_deps/imgui-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/watch/FRIEND-SUGGESTION/build/_deps/imgui-subbuild/imgui-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

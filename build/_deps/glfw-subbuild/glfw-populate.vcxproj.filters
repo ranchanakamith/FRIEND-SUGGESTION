@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\b6bd1c7dbbe5d74976153d35012f1ba9\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\b6bd1c7dbbe5d74976153d35012f1ba9\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\b6bd1c7dbbe5d74976153d35012f1ba9\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\b6bd1c7dbbe5d74976153d35012f1ba9\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\b6bd1c7dbbe5d74976153d35012f1ba9\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\b6bd1c7dbbe5d74976153d35012f1ba9\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\b6bd1c7dbbe5d74976153d35012f1ba9\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\b6bd1c7dbbe5d74976153d35012f1ba9\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\219fccebfcc65249ed82a67325eb76ff\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\8c98d59f9b221f90de2053e7142187db\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\watch\FRIEND-SUGGESTION\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{867C9A8C-9E80-35B9-9020-5CCDF47072E4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

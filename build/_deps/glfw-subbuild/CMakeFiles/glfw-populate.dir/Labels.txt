@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/8c98d59f9b221f90de2053e7142187db/glfw-populate.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/219fccebfcc65249ed82a67325eb76ff/glfw-populate-complete.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/b6bd1c7dbbe5d74976153d35012f1ba9/glfw-populate-build.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/b6bd1c7dbbe5d74976153d35012f1ba9/glfw-populate-configure.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/b6bd1c7dbbe5d74976153d35012f1ba9/glfw-populate-download.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/b6bd1c7dbbe5d74976153d35012f1ba9/glfw-populate-install.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/b6bd1c7dbbe5d74976153d35012f1ba9/glfw-populate-mkdir.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/b6bd1c7dbbe5d74976153d35012f1ba9/glfw-populate-patch.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/b6bd1c7dbbe5d74976153d35012f1ba9/glfw-populate-test.rule
+D:/watch/FRIEND-SUGGESTION/build/_deps/glfw-subbuild/CMakeFiles/b6bd1c7dbbe5d74976153d35012f1ba9/glfw-populate-update.rule
